@@ -1,6 +1,6 @@
 ### Hi this is Ashish Vishwkarma 👋
 
-- 🔭 I’m currently working as a Student .
+- 🔭 I’m currently working as a CSE Student .
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate for Web Dev Projects .
 - 💬 Ask me about Node.js ,javascript , java ,DBMS 
