@@ -1,6 +1,6 @@
 ### Hi this is Ashish Vishwakarma 👋
 
-- 🔭 I’m currently working as a Software Developer.
+- 🔭 I’m currently working as a ![Software Developer](https://img.shields.io/badge/Software_Developer-FF6347?style=for-the-badge).
 - 🌱 Key Skill - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -14,12 +14,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 👯 I’m looking to collaborate for Web Dev Projects.
+- 👯 I’m always looking to collaborate for Web Dev Projects with developers 
 - 💬 Ask me about Node.js, javascript, java, DBMS ,HTML,CSS 
 - 📫 How to reach me:
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- - ashish.vishwakarma1267@gmail.com
-- Linkedin - @ashish-vishwakarma-7259401a5
-(https://www.linkedin.com/in/ashish-vishwakarma-7259401a5/)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  - ashish.vishwakarma1267@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -https://www.linkedin.com/in/ashish-vishwakarma-7259401a5/
 - ⚡  fact: A Crazy Guy with full of coding mindset .
 
