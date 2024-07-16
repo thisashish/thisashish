@@ -17,7 +17,8 @@
 - 👯 I’m looking to collaborate for Web Dev Projects.
 - 💬 Ask me about Node.js, javascript, java, DBMS ,HTML,CSS 
 - 📫 How to reach me:
-- Email - ashish.vishwakarma1267@gmail.com
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ - ashish.vishwakarma1267@gmail.com
 - Linkedin - @ashish-vishwakarma-7259401a5
 (https://www.linkedin.com/in/ashish-vishwakarma-7259401a5/)
 - ⚡  fact: A Crazy Guy with full of coding mindset .
