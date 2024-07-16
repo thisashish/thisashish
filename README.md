@@ -1,6 +1,6 @@
 ### Hi this is Ashish Vishwakarma 👋
 
-- 🔭 I’m currently working as a ![Software Developer](https://img.shields.io/badge/Software_Developer-FF6347?style=for-the-badge).
+- 🔭 I’m currently working as a ![Software Developer](https://img.shields.io/badge/Software_Developer-FF6347?style=for-the-badge). I have 3+ year of experience in this field. I am also experience with AWS 
 - 🌱 Key Skill - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
